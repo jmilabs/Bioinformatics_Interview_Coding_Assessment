@@ -14,3 +14,5 @@ Please use good documentation practices. Assume this task will be asked many mor
 
 ## Section 2: BLAST
 Create a bash script to BLAST the sequences found in query/ against the Morganella morganii isolate in assembly/. Only report hits that meet a query coverage of 100% to standard output format. 
+
+Commit code to applicant_scripts/. 
